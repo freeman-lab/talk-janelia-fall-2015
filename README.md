@@ -6,20 +6,26 @@ View live at [freemanlab.com](http://thefreemanlab.com/talk-janelia-fall-2015)
 
 ### Relavant links
 
-Challenge and standardized datasets for finding neurons in imaging data
 [neurofinder](http://neurofinder.codeneuro.org)
 
-Organization for neuroscience + data science with meetings and hackathons
+Benchmarking and standardized datasets for finding neurons in imaging data
+
 [codeneuro](http://codeneuro.org)
 
-Deploy on demand notebook environments straight from GitHub repos
+Organization for neuroscience + data science with meetings and hackathons
+
 [binder](http://mybinder.org)
 
-Web-first visualization across multiple languages
+Deploy on demand notebook environments straight from GitHub repos
+
 [lightning](http://lightning-viz.org)
 
-Large-scale analysis of spatio-temporal using distributed computing
+Web-first visualization across multiple languages
+
 [thunder](http://github.com/thunder-project/thunder)
 
-N-dimensional arrays using Spark
+Large-scale analysis of spatio-temporal using distributed computing
+
 [bolt](http://github.com/bolt-project/bolt)
+
+N-dimensional arrays using Spark
